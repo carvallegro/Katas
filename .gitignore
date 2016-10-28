@@ -1,17 +1,6 @@
-.settings/
-*/.settings/
-target
-*/target
-*.class
-*~
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+target/
+Katas (1).iml
+GameOfLife/GameOfLife(1).iml
+GameOfLife/target/
+string_calculator/target
+string_calculator/string-calculator(1).iml
